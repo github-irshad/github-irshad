@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=github-irshad" alt="github-irshad" /></a> </p>
 
-- 💬 Ask me about **dotnet, django, react**
+- 💬 Let's discuss about **dotnet, angular, azure**
 
 - 📫 How to reach me **irshadaj08@gmail.com**
 
